@@ -27,6 +27,6 @@ python lqr_tracking.py ../images/lqr_tracking.png
 ## Credits
 Course project on modern control at Amirkabir University of Technology (winter 2024), supervised by Dr. Hajar Atrianfar.
 
-**Team:** Sana Ranjbar, Vania Malekzahedi, Sheyda Niaparast and Tiba Tabashiri Namin.
+**Team:** Sana Ranjbar, Vaniya Malekzahedi, Sheyda Niaparast and Tiba Tabshiri Namin.
 
 **Tools:** MATLAB · Simulink · Control System Toolbox · Python
